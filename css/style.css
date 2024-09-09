@@ -397,6 +397,7 @@ span {
     color: var(--second-bg-color);
 }
 
+
 /* breakpoints */
 @media (max-width: 1200px) {
     html {
